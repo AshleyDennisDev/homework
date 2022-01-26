@@ -6,6 +6,7 @@
 // }
 // console.log(`${currConversion(usd)} Euros are equivalent to ${usd} U.S dollars`);
 
+//Convert Celsius to Farenheit
 // const tempC = 8.5
 
 // function temppConversion(celsToFar){
