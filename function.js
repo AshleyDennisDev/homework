@@ -1,7 +1,7 @@
-// function areaOfSquare(length, width) {
-//   console.log(length * width);
-// }
-// console.log(5 * 8);
+function areaOfSquare(length, width) {
+  console.log(length * width);
+}
+console.log(5 * 8);
 
 // //-------------------------------------------------------
 // //-------------------------------------------------------
@@ -14,10 +14,10 @@ console.log(totalPoints(25,15))
 // //-------------------------------------------------------
 // //-------------------------------------------------------
 
-// function addition(a, b) {
-//   return a + b;
-// }
-// console.log(addition(2, 4));
+function addition(a, b) {
+  return a + b;
+}
+console.log(addition(2, 4));
 
 //----------------------------------------------------------
 
