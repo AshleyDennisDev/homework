@@ -13,9 +13,9 @@ getPerson(person)
 // 1. Write a function that adds two numbers together.
 
 function addVal(a, b){
-    console.log(a+b)
+    return a + b 
 }
-addVal(8,5)
+console.log(addVal(8,5))
 
 // 2. Create a function that takes the age in years and returns the age in days.
 
